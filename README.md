@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 SRE UPNVJ
+# 🌱 SRE UPNVJ apa ya
 ### Society of Renewable Energy — UPN "Veteran" Jakarta
 
 *Empowering Renewable Future through Innovation, Education, and Digital Ecosystem.*
